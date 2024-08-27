@@ -19,3 +19,5 @@ Hast du Fragen oder benötigst Unterstützung? Kein Problem! Nutze unser Ticket-
 📢 Kontakt
 Für Fragen oder weitere Unterstützung kannst uns auf Teams anschreiben. Wir helfen gerne weiter!
 
+
+[Noser Young](https://www.talentfoerderungplus.ch/var/site/storage/images/talent-practices/noser-young-ag/5867-8-ger-CH/noser-young-ag_i480.jpg)
