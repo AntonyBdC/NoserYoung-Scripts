@@ -1,4 +1,4 @@
-# NoserYoung-Scripts ![Noser Young](https://media.licdn.com/dms/image/v2/C4E0BAQGQY8juJzl00A/company-logo_200_200/company-logo_200_200/0/1680001574572/noser_young_logo?e=2147483647&v=beta&t=lCb_3tecZXi_zdPh13t-yXrtLKPZbX0yxly8D6UAQWw)
+# NoserYoung-Scripts ![Noser Young]([https://media.licdn.com/dms/image/v2/C4E0BAQGQY8juJzl00A/company-logo_200_200/company-logo_200_200/0/1680001574572/noser_young_logo?e=2147483647&v=beta&t=lCb_3tecZXi_zdPh13t-yXrtLKPZbX0yxly8D6UAQWw](https://www.talentfoerderungplus.ch/var/site/storage/images/talent-practices/noser-young-ag/5867-8-ger-CH/noser-young-ag_i480.jpg))
 
 
 Willkommen im NoserYoung-Scripts Repository! 🎉 Hier findest du eine Sammlung von praktischen und kreativen Skripten, die speziell für die Noser Young von Lernenden erstellt wurden. Ob du nach coolen Tools suchst oder einfach nur neugierig auf spannende Projekte bist – du bist hier genau richtig!
